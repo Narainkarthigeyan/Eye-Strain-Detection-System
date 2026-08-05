@@ -1,0 +1,16 @@
+{
+  "narain": {
+    "blink_rate": 12.0,
+    "distance_cm": 60.0,
+    "sessions": 1,
+    "total_minutes": 0.0,
+    "last_updated": "2026-04-20 21:13:29"
+  },
+  "default_user": {
+    "blink_rate": 25.780443668454765,
+    "distance_cm": 65.80899822688114,
+    "sessions": 6,
+    "total_minutes": 22.3,
+    "last_updated": "2026-05-05 11:36:08"
+  }
+}
